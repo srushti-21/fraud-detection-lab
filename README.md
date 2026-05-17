@@ -224,7 +224,7 @@ Default threshold assumes FP and FN are equally costly. They never are in fraud.
 ### Requirements
 
 ```bash
-pip install pandas numpy scikit-learn xgboost lightgbm imbalanced-learn shap mlflow matplotlib seaborn jupyter kaggle
+pip install pandas numpy scikit-learn xgboost lightgbm imbalanced-learn shap mlflow matplotlib seaborn jupyter kaggle imblearn
 ```
 
 ### Data Download
